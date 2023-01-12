@@ -1,6 +1,6 @@
 # SushiSwap Classic Exchange Interface
 
-Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with SushiSwap contracts.
+Forked from [Uniswap/uniswap-interface](https://github.com/nicholidev/app.uniswap.org), and updated to work with SushiSwap contracts.
 
 ## Accessing the SushiSwap Classic Exchange Interface
 
